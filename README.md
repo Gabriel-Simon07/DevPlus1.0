@@ -5,7 +5,7 @@ DevPlus é um programa de cadastro para eventos festivos, culturais, treinamento
 
 ![Logotipo DevPlus](https://github.com/Gabriel-Simon07/projetoGO/blob/master/logotipo_DevPlus.png)
 
-<h2>Passos para cadastrar pessoas no programa:
+<h2>Passos para cadastrar pessoas no programa:<h2>
 
 * 1° Clicar no botão **Gestão do evento**.
 
@@ -47,7 +47,7 @@ DevPlus é um programa de cadastro para eventos festivos, culturais, treinamento
 
 ![TelaDeCadastro](https://github.com/Gabriel-Simon07/DevPlus1.0/blob/master/telaCadastro.png)
 
-<h2>Bibliotecas
+<h2>Bibliotecas</h2>
 
 Não foi utilizado nenhum tipo de biblioteca.
 
