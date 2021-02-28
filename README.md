@@ -1,11 +1,12 @@
 # Linguagem C#
+
 DevPlus - Programa para cadastro de eventos 
 
 DevPlus é um programa de cadastro para eventos festivos, culturais, treinamentos, entre outros.
 
 ![Logotipo DevPlus](https://github.com/Gabriel-Simon07/projetoGO/blob/master/logotipo_DevPlus.png)
 
-###Passos para cadastrar pessoas no programa:
+Passos para cadastrar pessoas no programa:
 
 * 1° Clicar no botão **Gestão do evento**.
 
@@ -47,9 +48,9 @@ DevPlus é um programa de cadastro para eventos festivos, culturais, treinamento
 
 ![TelaDeCadastro](https://github.com/Gabriel-Simon07/DevPlus1.0/blob/master/telaCadastro.png)
 
-###Bibliotecas
+* **Ferramentas**
 
-Não foi utilizado nenhum tipo de biblioteca.
+Visual Studio 2019 Community
 
 
 
