@@ -4,8 +4,6 @@ DevPlus - Programa para cadastro de eventos
 
 DevPlus é um programa de cadastro para eventos festivos, culturais, treinamentos, entre outros.
 
-![Logotipo DevPlus](https://github.com/Gabriel-Simon07/projetoGO/blob/master/logotipo_DevPlus.png)
-
 Passos para cadastrar pessoas no programa:
 
 * 1° Clicar no botão **Gestão do evento**.
